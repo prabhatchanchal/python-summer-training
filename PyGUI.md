@@ -9,4 +9,4 @@
        * sunset time
 
 **Gui doesn't look too good because of  limitations of  Tkinter*
-![alt text](C:/Users/prabh/OneDrive/Pictures/Screenshots/Screeshot(88).png)
+![](https://github.com/prabhatchanchal/image/blob/master/Screenshot%20(88).png)
