@@ -1,1 +1,1 @@
-#images from Python GUI
+# images from Python GUI
