@@ -1,7 +1,7 @@
 # images from Python GUI
-**Feature:**
+**Feature:** *
     * Auto detect location and show weather of that location
-    * Show maximum type of info like
+    * Show maximum type of info like*
               * maximum temparature
               * minimum temparature
               * wind speed
