@@ -1,1 +1,1 @@
-# python-summer-training
+# python-summer-training-projects
